@@ -10,5 +10,7 @@ namespace GitExercise
     {
         string s = "Judy  green";
         string s1 = "welcome";
+
+        string s23 = "Hello";
     }
 }
