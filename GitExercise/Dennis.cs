@@ -14,5 +14,6 @@ namespace GitExercise
         int Number = 2;
         int Number2 = 3;
         int Number3 = 4;
+        int Number4 = 5;
     }
 }
