@@ -8,5 +8,10 @@ namespace GitExercise
 {
     internal class Dennis
     {
+        string Name = "Alexander";
+        string name = "Dennis";
+        string Course = "MVC";
+        int Number = 2;
+        int Number2 = 3;
     }
 }
