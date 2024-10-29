@@ -11,5 +11,6 @@ namespace GitExercise
         string str = "Hej";
         string str1 = "Här går från min branch.....";
         string str2 = "3";
+        string test = "Det är bara test";
     }
 }
