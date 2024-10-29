@@ -8,6 +8,7 @@ namespace GitExercise
 {
     internal class RezaClass
     {
-        String str = "Hej";
+        string str = "Hej";
+        string str1 = "Här går från min branch";
     }
 }

@@ -10,7 +10,8 @@ namespace GitExercise
     {
         string Name = "Alexander";
         string name = "Dennis";
-        int Number = 2;
         string Course = "MVC";
+        int Number = 2;
+        int Number2 = 3;
     }
 }
