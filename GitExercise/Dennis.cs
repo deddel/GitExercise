@@ -10,5 +10,6 @@ namespace GitExercise
     {
         string Name = "Alexander";
         string name = "Dennis";
+        int Number = 2;
     }
 }
