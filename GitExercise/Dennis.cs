@@ -8,5 +8,6 @@ namespace GitExercise
 {
     internal class Dennis
     {
+        string name = "Dennis";
     }
 }
