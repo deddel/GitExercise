@@ -11,6 +11,8 @@ namespace GitExercise
         string FirstName = "Alexander";
         string LastName = "Gustafsson";
         int Something = 1;
-        int Number = 2;  
+        int Number = 2;
+        string Hello = "Hello";
+        string Test = "!";
     }
 }
