@@ -9,6 +9,7 @@ namespace GitExercise
     internal class RezaClass
     {
         string str = "Hej";
-        string str1 = "Här går från min branch";
+        string str1 = "Här går från min branch.....";
+        string str2 = "3";
     }
 }
