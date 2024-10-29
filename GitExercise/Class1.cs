@@ -9,5 +9,6 @@ namespace GitExercise
     internal class Class1
     {
         string s = "Judy green";
+        string s1 = "welcome";
     }
 }
