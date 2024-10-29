@@ -14,5 +14,6 @@ namespace GitExercise
         int Number = 2;
         string Hello = "Hello";
         string Test = "!";
+        int Testare = 1;
     }
 }
